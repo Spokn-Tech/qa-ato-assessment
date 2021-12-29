@@ -18,7 +18,7 @@ Check for best practices inside the chosen testing automation framework.
 3. Logout from the website and login again using [scenarios]:                                         
     a. Correct username and password.                                                                       
     b. Wrong username and password.                                                         
-4. Send automated email on success of 3.a and on failure of 3.b to ‘sara.hisham@getspokn.com’ and say. “I have completed the task, the username is: [USERNAME] and password: [PASSWORD]. here is the github repo: [https://github.com/Spokn-Tech/qa-auto-assessment/]”
+4. Send automated email on success of 3.a and on failure of 3.b to ‘sara.hisham@getspokn.com’ and say. “I have completed the task, the username is: [USERNAME] and password is: [PASSWORD]. here is the github repo: [https://github.com/Spokn-Tech/qa-auto-assessment/]”
 
 
 ### **Specification**
